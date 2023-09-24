@@ -14,6 +14,10 @@
 
 #Set up------------------------------------------------------------------------
 
+install.packages("tidyverse")
+install.packages("lubridate")
+install.packages("stringdist")
+
 #load packages
 library(tidyverse)
 library(lubridate)
@@ -22,9 +26,12 @@ library(stringdist)
 #check working directory 
 getwd()
 
+#mine is incorrect so I need to set the working directory 
+setwd("C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches")
+
 #import file
 healthy_beaches <- read.csv(
-  "C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches\\Healthy_beaches_19-23.csv")
+  "C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches\\00_raw_data\\Healthy_beaches_data2019-23.csv")
 
 #view 
 str(healthy_beaches)
@@ -59,15 +66,17 @@ beaches_clean$Day <- as.numeric(beaches_clean$Day)
 beaches_clean$Ec_per100mL <- as.numeric(beaches_clean$Ec_per100mL)
 
 #and then make the location a factor 
-beaches_clean$Location <- as.factor(beaches_clean$Location) 
+beaches_clean$Location <- as.factor(beaches_clean$Location)
+beaches_clean$Rec_area <- as.factor(beaches_clean$Rec_area)
 
 #View
 str(beaches_clean)
 
 #remove any potential extraneous spaces that might exist in the data
-#for location
+#for location and rec area
 beaches_clean <- beaches_clean %>% 
-     mutate(Location = str_trim(Location, side = "both"))
+     mutate(Location = str_trim(Location, side = "both")) %>% 
+     mutate(Rec_area = str_trim(Rec_area, side = "both"))
 
 #for microcystin per microgram per litre
 beaches_clean <- beaches_clean %>% 
@@ -101,31 +110,52 @@ beaches_clean <- beaches_clean %>%
   mutate(sample_count = n())
 head(beaches_clean)
 
-#and now create a data subset that looks at just the top eight lakes sampled
+#and now create a data subset that looks at just the most sampled lake to start
+#which is last mountain lake 
 #this requires us to convert to a dataframe: 
 beaches_clean <- data.frame(beaches_clean)
 
-beaches_subset <- beaches_clean %>% 
-  subset(sample_count >= 9)
-str(beaches_subset)
+beaches_lml <- beaches_clean %>% 
+  subset(sample_count >= 70)
+str(beaches_lml)
 
 #for some reason, some of our values returned to character datatypes 
-beaches_subset$Year <- as.numeric(beaches_subset$Year)
-beaches_subset$Ec_per100mL <- as.numeric(beaches_subset$Ec_per100mL)
-beaches_subset$Mc_ugL <- as.numeric(beaches_subset$Mc_ugL)
+beaches_lml$Year <- as.numeric(beaches_lml$Year)
+beaches_lml$Ec_per100mL <- as.numeric(beaches_lml$Ec_per100mL)
+beaches_lml$Mc_ugL <- as.numeric(beaches_lml$Mc_ugL)
+
+str(beaches_lml)
+
+#Since this is still a lot of information, let's see what the sample number per 
+#rec area looks like 
+beaches_lml %>% 
+  count(Rec_area) %>% 
+  arrange(n)
+
+#Let's select rec areas that have been sampled 5 or more times 
+beaches_lml_subset <- beaches_lml %>%  
+  group_by(Rec_area) %>% 
+  mutate(Rec_visit_count = n()) %>% 
+  subset(Rec_visit_count >= 6)
+head(beaches_lml_subset)
+
+#count to make sure that worked 
+beaches_lml_subset %>% 
+  count(Rec_area) %>% 
+  arrange(n)
+
+#That looks much more manageable for data visualization 
 
 #Data visualization------------------------------------------------------------
 
-#Let's mean the E. coli per year and then visualize that by Location 
-#first, we need to see how many visits happened per location per year and add
-#that as a column 
-beaches_subset %>%
-  group_by(Location, Year) %>% 
-  mutate(yearly_sample_tally = n())
+#set ggplot theme
+theme_set(theme_bw())
 
-#now we can mean 
-ggplot(data = beaches_subset, 
-       mapping = aes(x = Year, y = Ec_per100mL, color = Rec_area)) +
-  geom_line() + 
-  facet_wrap(beaches_subset$Location)
+#Let's take a look at the E. coli levels over the four years of data we have
+#for each rec area
+ggplot(data = beaches_lml_subset, 
+       mapping = aes(x = Month, y = Ec_per100mL)) +
+  geom_point() + 
+  facet_grid(Year ~ Rec_area)
+
 

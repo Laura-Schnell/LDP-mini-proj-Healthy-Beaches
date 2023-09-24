@@ -2,8 +2,7 @@ Rec_area,Location,Date,Ec_per100mL,Mc_ugL
 Annie Laurie Beach,Annie Laurie Lake,2019-07-09,52.66,0.099
 Aspen Grove Beach,Blackstrap Lake,2019-07-23,30.92,0.099
 Aspen Grove Beach,Blackstrap Lake,2019-08-14,36.3,0.099
-"Battlefords Provincial Park Public
-Beach",Jackfish Lake,2019-07-09,11.39,0.099
+Battlefords Provincial Park Public Beach,Jackfish Lake,2019-07-09,11.39,0.099
 Bird's Point Beach,Round Lake,2019-06-17,2.73,0.099
 Bird's Point Beach,Round Lake,2019-07-22,3.64,0.099
 Bird's Point Beach,Round Lake,2019-08-12,127.39,0.099
@@ -20,16 +19,16 @@ Camp Lemieux Beach,Lac Pelletier Lake,2019-07-11,1.49,0.099
 Camp Whitesand Beach, Whitesand Lake,2019-07-24,43.33,0.099
 Clearwater Lake Regional Park Beach, Clearwater Lake,2019-08-13,3.27,0.099
 Cypress Hills Interprovincial Park West Beach, Loch Leven Lake,2019-08-15,11.24,0.099
-Danielson Visitor’s Center Beach, Lake Diefenbaker,2019-06-25,2.06,0.099
-Danielson Visitor’s Center Beach, Lake Diefenbaker,2019-07-03,5.1,0.099
-Danielson Visitor’s Center Beach, Lake Diefenbaker,2019-07-09,115.98,0.099
-Danielson Visitor’s Center Beach, Lake Diefenbaker,2019-07-17,7.56,0.099
-Danielson Visitor’s Center Beach, Lake Diefenbaker,2019-07-25,NA,NA
-Danielson Visitor’s Center Beach, Lake Diefenbaker,2019-07-30,35.2,0.099
-Danielson Visitor’s Center Beach, Lake Diefenbaker,2019-08-06,28.7,0.099
-Danielson Visitor’s Center Beach, Lake Diefenbaker,2019-08-13,0.82,0.099
-Danielson Visitor’s Center Beach, Lake Diefenbaker,2019-08-20,3.55,0.099
-Danielson Visitor’s Center Beach, Lake Diefenbaker,2019-08-27,1.61,0.099
+Danielson Visitor's Center Beach, Lake Diefenbaker,2019-06-25,2.06,0.099
+Danielson Visitor's Center Beach, Lake Diefenbaker,2019-07-03,5.1,0.099
+Danielson Visitor's Center Beach, Lake Diefenbaker,2019-07-09,115.98,0.099
+Danielson Visitor's Center Beach, Lake Diefenbaker,2019-07-17,7.56,0.099
+Danielson Visitor's Center Beach, Lake Diefenbaker,2019-07-25,NA,NA
+Danielson Visitor's Center Beach, Lake Diefenbaker,2019-07-30,35.2,0.099
+Danielson Visitor's Center Beach, Lake Diefenbaker,2019-08-06,28.7,0.099
+Danielson Visitor's Center Beach, Lake Diefenbaker,2019-08-13,0.82,0.099
+Danielson Visitor's Center Beach, Lake Diefenbaker,2019-08-20,3.55,0.099
+Danielson Visitor's Center Beach, Lake Diefenbaker,2019-08-27,1.61,0.099
 Darlings Beach, Lac Pelletier Lake,2019-08-08,0.89,0.099
 Denare Beach Main Beach Area, Amisk Lake,2019-07-24,0.43,0.099
 Echo Bible Camp Beach, Echo Lake,2019-07-18,1.93,0.099
@@ -85,7 +84,7 @@ Nickle Lake Regional Park Beach, Nickle Lake,2019-07-30,16.51,2.5
 Pike Lake Main Beach, Pike Lake,2019-06-24,0.32,2.5
 Pike Lake Main Beach, Pike Lake,2019-08-14,0.32,0.099
 Pinehouse Lake Beach, Pinehouse Lake,2019-07-24,7.62,0.099
-Poplar Beach Resort Beach, Wakaw Lake,2019-07-09,5.08,0.099
+Poplar Beach, Wakaw Lake,2019-07-09,5.08,0.099
 Prairie Lake Regional Park Beach, Lake Diefenbaker,2019-07-23,2.39,0.099
 Regina Beach, Last Mountain Lake,2019-06-28,25.09,0.099
 Regina Beach, Last Mountain Lake,2019-07-24,9.42,0.099
@@ -173,8 +172,8 @@ Moosomin Regional Park Beach,Moosomin Lake,2020-08-04,6.41,0.099
 Nickle Lake Regional Park Beach,Nickle Lake,2020-08-06,4.27,0.099
 Pasqua Lake Beach,Pasqua Lake,2020-08-06,5.15,0.099
 Pelican Pointe Beach,Last Mountain Lake,2020-08-27,35.48,5
-Poplar Beach Resort Beach,Wakaw Lake,2020-07-27,10.7,0.099
-Poplar Beach Resort Beach,Wakaw Lake,2020-08-25,5.42,0.099
+Poplar Beach,Wakaw Lake,2020-07-27,10.7,0.099
+Poplar Beach,Wakaw Lake,2020-08-25,5.42,0.099
 Pruden’s Point Beach,Tobin Lake,2020-07-07,0.52,0.099
 Regina Beach,Last Mountain Lake,2020-08-25,7.72,0.099
 Rowan's Ravine Provincial Park Main Beach Area,Last Mountain Lake,2020-07-28,6.67,1
@@ -229,11 +228,11 @@ Danielson’s Visitor Centre,Lake Diefenbaker,2022-08-15,3.42,0.099
 Crystal Bay/Sunset Beach, ,2022-08-23,0.25,0.099
 Prairie Lake Regional Park, ,2022-07-18,55.71,0.099
 Sask Landing (Cottonwood Beach),Lake Diefenbaker,2022-08-15,0.64,0.099
-Rowans Ravine Beach,Last Mountain Lake,2022-06-28,6.16,0.099
-Rowans Ravine Beach,Last Mountain Lake,2022-07-25,7.3,0.099
-Rowans Ravine Beach,Last Mountain Lake,2022-08-29,373.38,0.099
-Rowans Ravine Beach,Last Mountain Lake,2022-08-31,53.55,0.099
-Rowans Ravine Beach,Last Mountain Lake,2022-09-02,83.47,0.099
+Rowan's Ravine Provincial Park Main Beach Area,Last Mountain Lake,2022-06-28,6.16,0.099
+Rowan's Ravine Provincial Park Main Beach Area,Last Mountain Lake,2022-07-25,7.3,0.099
+Rowan's Ravine Provincial Park Main Beach Area,Last Mountain Lake,2022-08-29,373.38,0.099
+Rowan's Ravine Provincial Park Main Beach Area,Last Mountain Lake,2022-08-31,53.55,0.099
+Rowan's Ravine Provincial Park Main Beach Area,Last Mountain Lake,2022-09-02,83.47,0.099
 Marean Lake Beach,Marean Lake,2022-08-02,14.05,0.099
 Lady Beach,Lady Lake,2022-07-19,3.17,0.099
 Annie Laurie Beach,Annie Laurie Lake,2022-07-19,5.27,0.099
@@ -268,11 +267,11 @@ Lumsden Beach,Last Mountain Lake,2022-08-08,35.88,0.099
 Sorenson Beach,Last Mountain Lake,2022-06-26,2.95,0.099
 Sorenson Beach,Last Mountain Lake,2022-07-26,30.01,0.099
 Sorenson Beach,Last Mountain Lake,2022-08-29,23.41,0.099
-Sun dale Beach,Last Mountain Lake,2022-06-28,38.7,0.099
-Sun dale Beach,Last Mountain Lake,2022-07-27,14.85,0.099
-Sun dale Beach,Last Mountain Lake,2022-08-04,171.18,NA
-Sun dale Beach,Last Mountain Lake,2022-08-09,10.78,0.099
-Sun dale Beach,Last Mountain Lake,2022-08-10,4.66,0.099
+Sun Dale Beach,Last Mountain Lake,2022-06-28,38.7,0.099
+Sun Dale Beach,Last Mountain Lake,2022-07-27,14.85,0.099
+Sun Dale Beach,Last Mountain Lake,2022-08-04,171.18,NA
+Sun Dale Beach,Last Mountain Lake,2022-08-09,10.78,0.099
+Sun Dale Beach,Last Mountain Lake,2022-08-10,4.66,0.099
 Pelican Pointe,Last Mountain Lake,2022-08-02,12.88,0.099
 Etters Beach, ,2022-08-02,101.02,0.099
 Etters Beach, ,2022-08-04,17.87,NA
@@ -448,9 +447,9 @@ Pike Lake Main Beach,Pike Lake,2023-07-25,1.25,0.099
 Pike Lake Main Beach,Pike Lake,2023-07-31,1,0.099
 Pike Lake Main Beach,Pike Lake,2023-08-14,3.5,0.099
 Pike Lake Main Beach,Pike Lake,2023-08-28,1.15,0.099
-Poplar Beach Resort Beach, ,2023-07-11,4.22,0.099
-Poplar Beach Resort Beach,,2023-08-15,4.82,0.099
-Poplar Beach Resort Beach,,2023-09-05,9.34,0.099
+Poplar Beach,Last Mountain Lake,2023-07-11,4.22,0.099
+Poplar Beach,Last Mountain Lake,2023-08-15,4.82,0.099
+Poplar Beach,Last Mountain Lake,2023-09-05,9.34,0.099
 Regina Beach, Last Mountain Lake,2023-06-26,5,0.099
 Regina Beach, Last Mountain Lake,2023-07-04,4.64,0.099
 Regina Beach, Last Mountain Lake,2023-07-10,4.1,0.099
