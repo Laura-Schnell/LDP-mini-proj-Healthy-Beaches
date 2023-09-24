@@ -14,11 +14,16 @@
 
 #Set up------------------------------------------------------------------------
 
+#libraries for my data wrangling
 install.packages("tidyverse")
 install.packages("lubridate")
 install.packages("stringdist")
 
-#load packages
+#library for when I make preregistration 
+install.packages("prereg") 
+library(prereg) #load 
+
+#load packages for data wrangling 
 library(tidyverse)
 library(lubridate)
 library(stringdist)

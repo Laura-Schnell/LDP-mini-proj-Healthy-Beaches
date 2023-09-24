@@ -1,0 +1,87 @@
+---
+title           : "Preregistration for my Healthy Beaches Living Data Mini-project"
+shorttitle      : "Healthy Beaches preregistration"
+date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
+
+author: 
+  - name        : Laura Schnell
+    affiliation : 1
+
+affiliation:
+  - id          : 1
+    institution : University of Regina
+
+output: prereg::prereg_pdf
+---
+
+<!-- To keep pre-registrations to a reasonable length for readers, we recommend answers fit within a single page .pdf document, roughly 3200 characters. Read more about this here: https://aspredicted.org/messages/why_limits.php -->
+
+## Data collection
+
+<!-- Have any data been collected for this study already? (Note: "Yes" is not an accepted answer.) -->
+
+**It's complicated.** Data has been collected by the Saskatchewan Department of Health through their Healthy Beaches program and is available at the following link. I aim to collect this data from the Healthy Beaches website, convert it into a .csv, and use it for exploratory analysis.
+
+## Hypothesis
+
+<!-- What's the main question being asked or hypothesis being tested in this study? -->
+
+> This work is exploratory but my starting hypothesis is that E. coli and microcystin levels measured by the Healthy Beaches Program [1] will fluctuate over the course of the summer. This dataset only includes date, location, and E. coli and microcystin levels so I cannot test any potential relationships should there be fluctuations, but I would expect both temperature and beach use have an impact on microbial growth in beachwater [2, 3].
+
+## Dependent variable
+
+<!-- Describe the key dependent variable(s) specifying how they will be measured. -->
+
+> E. coli levels were measured by the Healthy Beaches Program in colony forming units (CFU) per 100 mL. Collected water was cultured selectively for coliforms by the Roy Romanow Provincial Laboratory (RRPL). Microcystin levels are measured using enzyme-linked immunosorbent assay that is performed on the collected water, again by RRPL.
+
+## Conditions
+
+<!-- How many and which conditions will participants be assigned to? -->
+
+> Time is the only fluctuating condition. Sampling is performed yearly from May to August. I have sourced data from the Healthy Beaches website from 2019, 2020, 2022, and 2023.
+
+## Analyses
+
+<!-- Specify exactly which analyses you will conduct to examine the main question/hypothesis. -->
+
+> Data quality checks will be performed using the lubridate and tidyverse R packages. Exploratory data visualization will be performed with ggplot2. No modelling will be performed because there is insufficient data.
+
+## Outliers and exclusions
+
+<!-- Describe exactly how outliers will be defined and handled, and your precise rule(s) for excluding observations. -->
+
+> Outliers will only be excluded from analyses if there is a note in the Healthy Beaches data files that note something odd happened with the water testing. Otherwise, outliers will be defined as unexpected or atypical E. coli or microcystin levels and left alone.
+
+## Sample size
+
+<!-- How many observations will be collected or what will determine sample size? No need to justify decision, but be precise about _exactly_ how the number will be determined. -->
+
+> Data from 2019, 2020, 2022, and 2023 will be used with the most sampled lake and recreational areas as the main focus.
+
+## Other
+
+<!-- Anything else you would like to pre-register? (e.g., secondary analyses, variables collected for exploratory purposes, unusual analyses planned?) -->
+
+> This project is exploratory analysis on already existing data gathered by the Saskatchewan Health Authority Healthy Beaches program.
+
+## Study type
+
+Finally. For record keeping purposes, please tell us the type of study you are pre-registering.
+
+-   Class project or assignment
+
+# References
+
+> 1. Government of Saskatchewan. "Healthy Beaches Program \| Environmental Health." Accessed September 24, 2023. <https://www.saskatchewan.ca/residents/environment-public-health-and-safety/environmental-health/healthy-beach-program>.
+
+> 2. Weiskerger, Chelsea J., João Brandão, Warish Ahmed, Asli Aslan, Lindsay Avolio, Brian D. Badgley, Alexandria B. Boehm, et al. "Impacts of a Changing Earth on Microbial Dynamics and Human Health Risks in the Continuum between Beach Water and Sand." Water Research 162 (October 1, 2019): 456--70. <https://doi.org/10.1016/j.watres.2019.07.006>.
+
+> 3. Zhou, Chuangchuang, Hui Chen, Haipeng Zhao, and Qiang Wang. "Microcystin Biosynthesis and Toxic Effects." Algal Research 55 (May 1, 2021): 102277. <https://doi.org/10.1016/j.algal.2021.102277>.
+
+```{=tex}
+\vspace{-2pc}
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{-1in}
+\setlength{\parskip}{8pt}
+```
+\noindent
