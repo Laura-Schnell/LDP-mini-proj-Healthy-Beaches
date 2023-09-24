@@ -1,0 +1,512 @@
+"","Rec_area","Location","visit_date","Year","Month","Day","Ec_per100mL","Mc_ugL","month_day","sample_count"
+"1","Annie Laurie Beach","annie laurie lake",2019-07-09,"2019",7,9,"52.66","0.099","07-09",8
+"2","Aspen Grove Beach","blackstrap lake",2019-07-23,"2019",7,23,"30.92","0.099","07-23",12
+"3","Aspen Grove Beach","blackstrap lake",2019-08-14,"2019",8,14,"36.3","0.099","08-14",12
+"4","Battlefords Provincial Park Public Beach","jackfish lake",2019-07-09,"2019",7,9,"11.39","0.099","07-09",12
+"5","Bird's Point Beach","round lake",2019-06-17,"2019",6,17,"2.73","0.099","06-17",5
+"6","Bird's Point Beach","round lake",2019-07-22,"2019",7,22,"3.64","0.099","07-22",5
+"7","Bird's Point Beach","round lake",2019-08-12,"2019",8,12,"127.39","0.099","08-12",5
+"8","B-Say Tah Beach","echo lake",2019-06-27,"2019",6,27,"0.15","0.099","06-27",56
+"9","B-Say Tah Beach","echo lake",2019-07-23,"2019",7,23,"4.12","0.099","07-23",56
+"10","B-Say Tah Beach","echo lake",2019-08-22,"2019",8,22,"2.81","0.099","08-22",56
+"11","Buffalo Pound Provincial Park Beach","buffalo pound",2019-06-24,"2019",6,24,"8.79","0.099","06-24",3
+"12","Buffalo Pound Provincial Park Beach","buffalo pound",2019-07-24,"2019",7,24,"2.23","0.099","07-24",3
+"13","Buffalo Pound Provincial Park Beach","buffalo pound",2019-08-19,"2019",8,19,"8.56","5","08-19",3
+"14","Cabri Regional Park Beach","lake diefenbaker",2019-07-23,"2019",7,23,"8.97","0.099","07-23",22
+"15","Cabri Regional Park Beach","lake diefenbaker",2019-08-14,"2019",8,14,"2.03","0.099","08-14",22
+"16","Camp Elim Beach","lac pelletier lake",2019-07-11,"2019",7,11,"2.47","0.099","07-11",8
+"17","Camp Lemieux Beach","lac pelletier lake",2019-07-11,"2019",7,11,"1.49","0.099","07-11",8
+"18","Camp Whitesand Beach","whitesand lake",2019-07-24,"2019",7,24,"43.33","0.099","07-24",1
+"19","Clearwater Lake Regional Park Beach","clearwater lake",2019-08-13,"2019",8,13,"3.27","0.099","08-13",1
+"20","Cypress Hills Interprovincial Park West Beach","loch leven lake",2019-08-15,"2019",8,15,"11.24","0.099","08-15",1
+"21","Danielson Visitor's Center Beach","lake diefenbaker",2019-06-25,"2019",6,25,"2.06","0.099","06-25",22
+"22","Danielson Visitor's Center Beach","lake diefenbaker",2019-07-03,"2019",7,3,"5.1","0.099","07-03",22
+"23","Danielson Visitor's Center Beach","lake diefenbaker",2019-07-09,"2019",7,9,"115.98","0.099","07-09",22
+"24","Danielson Visitor's Center Beach","lake diefenbaker",2019-07-17,"2019",7,17,"7.56","0.099","07-17",22
+"25","Danielson Visitor's Center Beach","lake diefenbaker",2019-07-25,"2019",7,25,NA,NA,"07-25",22
+"26","Danielson Visitor's Center Beach","lake diefenbaker",2019-07-30,"2019",7,30,"35.2","0.099","07-30",22
+"27","Danielson Visitor's Center Beach","lake diefenbaker",2019-08-06,"2019",8,6,"28.7","0.099","08-06",22
+"28","Danielson Visitor's Center Beach","lake diefenbaker",2019-08-13,"2019",8,13,"0.82","0.099","08-13",22
+"29","Danielson Visitor's Center Beach","lake diefenbaker",2019-08-20,"2019",8,20,"3.55","0.099","08-20",22
+"30","Danielson Visitor's Center Beach","lake diefenbaker",2019-08-27,"2019",8,27,"1.61","0.099","08-27",22
+"31","Darlings Beach","lac pelletier lake",2019-08-08,"2019",8,8,"0.89","0.099","08-08",8
+"32","Denare Beach Main Beach Area","amisk lake",2019-07-24,"2019",7,24,"0.43","0.099","07-24",1
+"33","Echo Bible Camp Beach","echo lake",2019-07-18,"2019",7,18,"1.93","0.099","07-18",56
+"34","Echo Provincial Park Beach","echo lake",2019-06-27,"2019",6,27,"22.53","0.099","06-27",56
+"35","Echo Provincial Park Beach","echo lake",2019-07-04,"2019",7,4,"10.46","0.099","07-04",56
+"36","Echo Provincial Park Beach","echo lake",2019-07-11,"2019",7,11,"0.82","0.099","07-11",56
+"37","Echo Provincial Park Beach","echo lake",2019-07-18,"2019",7,18,"33.98","0.099","07-18",56
+"38","Echo Provincial Park Beach","echo lake",2019-07-23,"2019",7,23,"6.07","0.099","07-23",56
+"39","Echo Provincial Park Beach","echo lake",2019-08-01,"2019",8,1,"6.26","0.099","08-01",56
+"40","Echo Provincial Park Beach","echo lake",2019-08-08,"2019",8,8,"2.03","0.099","08-08",56
+"41","Echo Provincial Park Beach","echo lake",2019-08-15,"2019",8,15,"22.83","0.099","08-15",56
+"42","Echo Provincial Park Beach","echo lake",2019-08-22,"2019",8,22,"12.9","0.099","08-22",56
+"43","Echo Provincial Park Beach","echo lake",2019-08-29,"2019",8,29,"5.27","0.099","08-29",56
+"44","Etter's Beach","last mountain lake",2019-07-16,"2019",7,16,"2.78","0.099","07-16",91
+"45","Greenwater Beach","greenwater lake",2019-07-03,"2019",7,3,"2.57","0.099","07-03",6
+"46","Jumbo Beach","jumbo lake",2019-08-20,"2019",8,20,"41.08","0.099","08-20",1
+"47","Katepwa Beach","katepwa lake",2019-06-27,"2019",6,27,"0.32","0.099","06-27",40
+"48","Katepwa Beach","katepwa lake",2019-07-04,"2019",7,4,"0.97","0.099","07-04",40
+"49","Katepwa Beach","katepwa lake",2019-07-11,"2019",7,11,"13.37","0.099","07-11",40
+"50","Katepwa Beach","katepwa lake",2019-07-18,"2019",7,18,"5.13","0.099","07-18",40
+"51","Katepwa Beach","katepwa lake",2019-07-23,"2019",7,23,"9.34","0.099","07-23",40
+"52","Katepwa Beach","katepwa lake",2019-08-01,"2019",8,1,"0.55","0.099","08-01",40
+"53","Katepwa Beach","katepwa lake",2019-08-08,"2019",8,8,"0.74","0.099","08-08",40
+"54","Katepwa Beach","katepwa lake",2019-08-15,"2019",8,15,"64.64","0.099","08-15",40
+"55","Katepwa Beach","katepwa lake",2019-08-22,"2019",8,22,"5.15","0.099","08-22",40
+"56","Katepwa Beach","katepwa lake",2019-08-29,"2019",8,29,"9.84","0.099","08-29",40
+"57","Kevin Misfeldt Beach Area Beach","blackstrap lake",2019-07-15,"2019",7,15,"2.78","0.099","07-15",12
+"58","Kimball Lake Campground Beach","kimball lake",2019-08-20,"2019",8,20,"6.3","0.099","08-20",1
+"59","Kipabiskau Beach","kipabiskau lake",2019-07-04,"2019",7,4,"0.78","0.099","07-04",2
+"60","Kipabiskau Beach","kipabiskau lake",2019-07-16,"2019",7,16,"1.22","0.099","07-16",2
+"61","Lady Beach","lady lake",2019-07-08,"2019",7,8,"1.97","0.099","07-08",2
+"62","Last Mountain Lake Regional Park Main Beach Area","last mountain lake",2019-06-26,"2019",6,26,"5.02","0.099","06-26",91
+"63","Last Mountain Lake Regional Park Main Beach Area","last mountain lake",2019-07-25,"2019",7,25,NA,NA,"07-25",91
+"64","Last Mountain Lake Regional Park Main Beach Area","last mountain lake",2019-07-31,"2019",7,31,"6.21","0.099","07-31",91
+"65","Last Mountain Lake Regional Park Main Beach Area","last mountain lake",2019-08-20,"2019",8,20,"4.3","0.099","08-20",91
+"66","Little Bear Beach","little bear lake",2019-07-22,"2019",7,22,"4.05","0.099","07-22",1
+"67","Lumsden Beach","last mountain lake",2019-06-24,"2019",6,24,"4.09","0.099","06-24",91
+"68","Lumsden Beach","last mountain lake",2019-07-19,"2019",7,19,"63.82","0.099","07-19",91
+"69","Lumsden Beach","last mountain lake",2019-08-21,"2019",8,21,"8.94","0.099","08-21",91
+"70","Marean Lake Beach","marean lake",2019-07-25,"2019",7,25,"2.78","0.099","07-25",3
+"71","Melville Beach","crooked lake",2019-08-14,"2019",8,14,"2.2","0.099","08-14",12
+"72","Memorial Lake Regional Park Beach","memorial lake",2019-08-19,"2019",8,19,"0.52","0.099","08-19",1
+"73","Meota Regional Park Public Beach","jackfish lake",2019-07-09,"2019",7,9,"5.02","0.099","07-09",12
+"74","Michele Pt. Campground Beach","dore lake",2019-07-17,"2019",7,17,"0.32","0.099","07-17",1
+"75","Ministik Beach","madge lake",2019-08-20,"2019",8,20,"1.55","0.099","08-20",7
+"76","Ministikwan Lake Campground/Picnic Beach","ministikwan lake",2019-08-20,"2019",8,20,"1.22","0.099","08-20",1
+"77","Moose Creek Regional Park Beach","alameda dam",2019-08-27,"2019",8,27,"0.32","0.099","08-27",2
+"78","Moose Mountain Provincial Park Beach","kenosee lake",2019-08-14,"2019",8,14,NA,"0.099","08-14",1
+"79","Moosomin Regional Park Beach","moosomin lake",2019-06-26,"2019",6,26,"7.86","0.099","06-26",3
+"80","Moosomin Regional Park Beach","moosomin lake",2019-07-25,"2019",7,25,"19.75","0.099","07-25",3
+"81","Napatak Beach (Subdivision B)","lac la ronge",2019-07-30,"2019",7,30,"1.55","2.5","07-30",1
+"82","Nickle Lake Regional Park Beach","nickle lake",2019-07-30,"2019",7,30,"16.51","2.5","07-30",2
+"83","Pike Lake Main Beach","pike lake",2019-06-24,"2019",6,24,"0.32","2.5","06-24",8
+"84","Pike Lake Main Beach","pike lake",2019-08-14,"2019",8,14,"0.32","0.099","08-14",8
+"85","Pinehouse Lake Beach","pinehouse lake",2019-07-24,"2019",7,24,"7.62","0.099","07-24",1
+"86","Poplar Beach","wakaw lake",2019-07-09,"2019",7,9,"5.08","0.099","07-09",8
+"87","Prairie Lake Regional Park Beach","lake diefenbaker",2019-07-23,"2019",7,23,"2.39","0.099","07-23",22
+"88","Regina Beach","last mountain lake",2019-06-28,"2019",6,28,"25.09","0.099","06-28",91
+"89","Regina Beach","last mountain lake",2019-07-24,"2019",7,24,"9.42","0.099","07-24",91
+"90","Regina Beach","last mountain lake",2019-08-21,"2019",8,21,"236.83","0.099","08-21",91
+"91","Regina Beach","last mountain lake",2019-08-22,"2019",8,22,"41.66","0.099","08-22",91
+"92","Regina Beach","last mountain lake",2019-08-23,"2019",8,23,"13.76","0.099","08-23",91
+"93","Resort Village of Aquadeo Public Beach","jackfish lake",2019-07-09,"2019",7,9,"1.17","0.099","07-09",12
+"94","Resort Village of Cochin Public Beach","jackfish lake",2019-07-09,"2019",7,9,"18.65","0.099","07-09",12
+"95","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2019-08-06,"2019",8,6,"305.84","0.099","08-06",91
+"96","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2019-08-13,"2019",8,13,"75.56","0.099","08-13",91
+"97","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2019-08-14,"2019",8,14,"11.87","0.099","08-14",91
+"98","Ruby Lake Beach","ruby lake",2019-07-11,"2019",7,11,"0.43","0.099","07-11",1
+"99","Sandy Bay Campground Beach","candle lake",2019-07-24,"2019",7,24,"5.57","0.099","07-24",5
+"100","Sandy Beach Campground Beach","pierce lake",2019-08-20,"2019",8,20,"2.87","0.099","08-20",1
+"101","Sask Landing Provincial Park Beach (Bearpaw)","lake diefenbaker",2019-07-16,"2019",7,16,"14.94","0.099","07-16",22
+"102","Sask Landing Provincial Park Beach (Cottonwood)","lake diefenbaker",2019-08-06,"2019",8,6,"1.49","0.099","08-06",22
+"103","Saskin Beach","fishing lake",2019-08-21,"2019",8,21,"0.15","0.099","08-21",7
+"104","Silver Lake Regional Park Public Beach","silver lake",2019-08-22,"2019",8,22,"30.1","0.099","08-22",1
+"105","Smits Beach","codette lake",2019-07-24,"2019",7,24,"30.56","0.099","07-24",1
+"106","Sorensen Beach","last mountain lake",2019-06-24,"2019",6,24,"10.62","0.099","06-24",91
+"107","Sorensen Beach","last mountain lake",2019-08-06,"2019",8,6,"34.31","0.099","08-06",91
+"108","Sorensen Beach","last mountain lake",2019-08-26,"2019",8,26,"23.55","0.099","08-26",91
+"109","Sturgeon Lake Regional Park Beach","sturgeon lake",2019-08-19,"2019",8,19,"0.25","0.099","08-19",1
+"110","Suffern Lake Beach","suffern lake",2019-06-18,"2019",6,18,"6.28","0.099","06-18",3
+"111","Suffern Lake Beach","suffern lake",2019-07-16,"2019",7,16,"9.24","0.099","07-16",3
+"112","Suffern Lake Beach","suffern lake",2019-08-26,"2019",8,26,"1.5","0.099","08-26",3
+"113","Sun Dale Beach","last mountain lake",2019-06-25,"2019",6,25,"3.2","0.099","06-25",91
+"114","Sun Dale Beach","last mountain lake",2019-07-31,"2019",7,31,"35.85","0.099","07-31",91
+"115","Sun Dale Beach","last mountain lake",2019-08-28,"2019",8,28,"35.85","0.099","08-28",91
+"116","Sunset Beach","crooked lake",2019-08-19,"2019",8,19,"1.51","5","08-19",12
+"117","Thode Subdivision Beach Area","blackstrap lake",2019-07-30,"2019",7,30,"10.03","2.5","07-30",12
+"118","Turtle Lake South Bay Public Beach","turtle lake",2019-07-09,"2019",7,9,"0.32","0.099","07-09",2
+"119","War Veteran's Park Beach","lac ile a la crosse",2019-07-24,"2019",7,24,"0.78","0.099","07-24",2
+"120","Washington Beach","methy lake",2019-07-23,"2019",7,23,"0.89","0.099","07-23",1
+"121","Welwyn Centennial Regional Park Beach","qu'appelle river",2019-07-25,"2019",7,25,"11.53","0.099","07-25",1
+"122","Bird's Point Beach","round lake",2020-08-11,"2020",8,11,"3.32","0.099","08-11",5
+"123","B-Say Tah Beach","echo lake",2020-06-28,"2020",6,28,"1.22","0.099","06-28",56
+"124","B-Say Tah Beach","echo lake",2020-07-22,"2020",7,22,"10.58","0.099","07-22",56
+"125","B-Say Tah Beach","echo lake",2020-08-20,"2020",8,20,"10.51","0.099","08-20",56
+"126","Buffalo Pound Provincial Park Beach","buffalo pound lake",2020-07-15,"2020",7,15,"2.19","0.099","07-15",9
+"127","Buffalo Pound Provincial Park Beach","buffalo pound lake",2020-08-13,"2020",8,13,"2","0.099","08-13",9
+"128","Cabri Regional Park Beach","lake diefenbaker",2020-07-27,"2020",7,27,"7.24","0.099","07-27",22
+"129","Cabri Regional Park Beach","lake diefenbaker",2020-08-25,"2020",8,25,"62","0.099","08-25",22
+"130","Danielson Visitor’s Center Beach","lake diefenbaker",2020-07-07,"2020",7,7,"60.51","5","07-07",22
+"131","Echo Bible Camp Beach","echo lake",2020-08-18,"2020",8,18,"1.35","0.099","08-18",56
+"132","Echo Provincial Park Beach","echo lake",2020-06-29,"2020",6,29,"5.52","0.099","06-29",56
+"133","Echo Provincial Park Beach","echo lake",2020-07-09,"2020",7,9,"6.22","0.099","07-09",56
+"134","Echo Provincial Park Beach","echo lake",2020-07-16,"2020",7,16,"26.12","0.099","07-16",56
+"135","Echo Provincial Park Beach","echo lake",2020-07-23,"2020",7,23,"13.55","0.099","07-23",56
+"136","Echo Provincial Park Beach","echo lake",2020-07-29,"2020",7,29,"17.77","0.099","07-29",56
+"137","Echo Provincial Park Beach","echo lake",2020-08-06,"2020",8,6,"15.63","0.099","08-06",56
+"138","Echo Provincial Park Beach","echo lake",2020-08-13,"2020",8,13,"24.62","0.099","08-13",56
+"139","Echo Provincial Park Beach","echo lake",2020-08-20,"2020",8,20,"1.49","0.099","08-20",56
+"140","Echo Provincial Park Beach","echo lake",2020-08-25,"2020",8,25,"7.86","0.099","08-25",56
+"141","Echo Provincial Park Beach","echo lake",2020-09-01,"2020",9,1,"20.26","0.099","09-01",56
+"142","Etter's Beach","last mountain lake",2020-07-21,"2020",7,21,"28.35","0.099","07-21",91
+"143","Fort Campground Beach","echo lake",2020-06-25,"2020",6,25,"36.52","0.099","06-25",56
+"144","Fort Campground Beach","echo lake",2020-06-26,"2020",6,26,"7.72","0.099","06-26",56
+"145","Fort Campground Beach","echo lake",2020-07-30,"2020",7,30,"0.74","0.099","07-30",56
+"146","Fort Campground Beach","echo lake",2020-08-18,"2020",8,18,"0.32","0.099","08-18",56
+"147","Glen Harbour Beach","last mountain lake",2020-08-17,"2020",8,17,"2.81","0.099","08-17",91
+"148","Island View Main Beach Area","last mountain lake",2020-08-17,"2020",8,17,"2.95","0.099","08-17",91
+"149","Katepwa Beach","katepwa lake",2020-06-29,"2020",6,29,"0.55","0.099","06-29",40
+"150","Katepwa Beach","katepwa lake",2020-07-09,"2020",7,9,"1.17","0.099","07-09",40
+"151","Katepwa Beach","katepwa lake",2020-07-16,"2020",7,16,"6.02","0.099","07-16",40
+"152","Katepwa Beach","katepwa lake",2020-07-23,"2020",7,23,"4.14","0.099","07-23",40
+"153","Katepwa Beach","katepwa lake",2020-07-30,"2020",7,30,"5.71","0.099","07-30",40
+"154","Katepwa Beach","katepwa lake",2020-08-06,"2020",8,6,"2.29","0.099","08-06",40
+"155","Katepwa Beach","katepwa lake",2020-08-13,"2020",8,13,"1.4","0.099","08-13",40
+"156","Katepwa Beach","katepwa lake",2020-08-20,"2020",8,20,"1.49","0.099","08-20",40
+"157","Katepwa Beach","katepwa lake",2020-08-25,"2020",8,25,"2.44","0.099","08-25",40
+"158","Katepwa Beach","katepwa lake",2020-09-01,"2020",9,1,"11.76","0.099","09-01",40
+"159","Kivimaa-Moonlight Bay Public Beach","turtle lake",2020-07-20,"2020",7,20,"0.25","0.099","07-20",2
+"160","Last Mountain Lake Regional Park Main Beach Area","last mountain lake",2020-07-28,"2020",7,28,"1.86","0.099","07-28",91
+"161","Lumsden Beach","last mountain lake",2019-06-24,"2019",6,24,"2.15","0.099","06-24",91
+"162","Lumsden Beach","last mountain lake",2020-07-15,"2020",7,15,"51.06","0.099","07-15",91
+"163","Lumsden Beach","last mountain lake",2020-08-23,"2020",8,23,"10.22","0.099","08-23",91
+"164","Marean Lake Beach","marean lake",2020-07-09,"2020",7,9,"0.32","0.099","07-09",3
+"165","Meeting Lake Regional Park Beach","meeting lake",2020-08-27,"2020",8,27,"0.15","0.099","08-27",1
+"166","Ministik Beach","madge lake",2020-08-04,"2020",8,4,"4.17","0.099","08-04",7
+"167","Missinipi Beach","churchill river",2020-07-29,"2020",7,29,"9.13","0.099","07-29",1
+"168","Mohr’s Beach","last mountain lake",2020-08-17,"2020",8,17,"5.25","0.099","08-17",91
+"169","Moose Creek Regional Park Beach","alameda dam",2020-07-06,"2020",7,6,"11.65","0.099","07-06",2
+"170","Moosomin Regional Park Beach","moosomin lake",2020-08-04,"2020",8,4,"6.41","0.099","08-04",3
+"171","Nickle Lake Regional Park Beach","nickle lake",2020-08-06,"2020",8,6,"4.27","0.099","08-06",2
+"172","Pasqua Lake Beach","pasqua lake",2020-08-06,"2020",8,6,"5.15","0.099","08-06",2
+"173","Pelican Pointe Beach","last mountain lake",2020-08-27,"2020",8,27,"35.48","5","08-27",91
+"174","Poplar Beach","wakaw lake",2020-07-27,"2020",7,27,"10.7","0.099","07-27",8
+"175","Poplar Beach","wakaw lake",2020-08-25,"2020",8,25,"5.42","0.099","08-25",8
+"176","Pruden’s Point Beach","tobin lake",2020-07-07,"2020",7,7,"0.52","0.099","07-07",1
+"177","Regina Beach","last mountain lake",2020-08-25,"2020",8,25,"7.72","0.099","08-25",91
+"178","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2020-07-28,"2020",7,28,"6.67","1","07-28",91
+"179","Sandy Beach Lake Regional Park Public Beach","sandy beach lake",2020-08-04,"2020",8,4,"0.89","0.099","08-04",1
+"180","Saskatchewan Beach","last mountain lake",2020-08-27,"2020",8,27,"6.17","0.099","08-27",91
+"181","Sask Landing Provincial Park Beach (Cottonwood)","lake diefenbaker",2020-08-19,"2020",8,19,"1.49","0.099","08-19",22
+"182","Sorensen Beach","last mountain lake",2020-06-28,"2020",6,28,"4.22","0.099","06-28",91
+"183","Sorensen Beach","last mountain lake",2020-07-27,"2020",7,27,"10.48","0.099","07-27",91
+"184","Sorensen Beach","last mountain lake",2020-08-29,"2020",8,29,"34.78","0.099","08-29",91
+"185","Struthers Lake Regional Park Beach","struthers lake",2020-08-25,"2020",8,25,"8","0.099","08-25",1
+"186","Sun Dale Beach","last mountain lake",2020-06-23,"2020",6,23,"51.11","0.099","06-23",91
+"187","Sun Dale Beach","last mountain lake",2020-07-27,"2020",7,27,NA,NA,"07-27",91
+"188","Sun Dale Beach","last mountain lake",2020-07-30,"2020",7,30,"41.42","0.099","07-30",91
+"189","Sun Dale Beach","last mountain lake",2020-08-26,"2020",8,26,"3.66","0.099","08-26",91
+"190","Sunset Beach Beach","crooked lake",2020-08-11,"2020",8,11,"16.8","0.099","08-11",12
+"191","War Veteran's Park Beach","lac ile a la crosse",2020-08-19,"2020",8,19,"6.28","0.099","08-19",2
+"192","South Flotten Lake Campground","",2022-07-26,"2022",7,26,"52.84","0.099","07-26",101
+"193","Howe Bay Campground","",2022-08-16,"2022",8,16,"2.18","0.099","08-16",101
+"194","Greig Lake Public Beach","",2022-08-09,"2022",8,9,"73.53","0.099","08-09",101
+"195","Murray Doell Campground","",2022-08-16,"2022",8,16,"8.27","0.099","08-16",101
+"196","War Veteran's Park Beach","",2022-07-19,"2022",7,19,"2.17","0.099","07-19",101
+"197","Wadin Bay Beach","",2022-08-22,"2022",8,22,"2.25","0.099","08-22",101
+"198","La Ronge Beach","",2022-08-09,"2022",8,9,"12.76","0.099","08-09",101
+"199","Morin Lake Regional Park","",2022-07-25,"2022",7,25,"0.43","0.099","07-25",101
+"200","Atton’s Lake Regional Park","",2022-08-22,"2022",8,22,"7.52","0.099","08-22",101
+"201","Suffern Lake Regional Park","",2022-08-22,"2022",8,22,"2.52","0.099","08-22",101
+"202","Silver Lake Regional Park","",2022-08-22,"2022",8,22,"0.78","0.099","08-22",101
+"203","Little Fishing Lake Beach","",2022-07-19,"2022",7,19,"4","0.099","07-19",101
+"204","Peck Lake Campground","",2022-07-19,"2022",7,19,"8.97","0.099","07-19",101
+"205","Turtle Lake Sunset View Beach","",2022-08-23,"2022",8,23,"0","0.099","08-23",101
+"206","Battlefords Provincial Park","",2022-08-23,"2022",8,23,"81.59","0.099","08-23",101
+"207","Resort Village of Aquadeo Beach","jackfish lake",2022-08-23,"2022",8,23,"959.05","0.099","08-23",12
+"208","Resort Village of Aquadeo Beach","jackfish lake",2022-08-31,"2022",8,31,"384.44","0.099","08-31",12
+"209","Resort Village of Aquadeo Beach","jackfish lake",2022-09-01,"2022",9,1,"914.65","0.099","09-01",12
+"210","Memorial Lake Regional Park","",2022-07-26,"2022",7,26,"11.66","0.099","07-26",101
+"211","Meeting Lake Regional Park","",2022-07-25,"2022",7,25,"0.89","0.099","07-25",101
+"212","Wakaw Lake Regional Park","",2022-07-26,"2022",7,26,"5.38","0.099","07-26",101
+"213","Poplar Beach","",2022-06-14,"2022",6,14,"82.53","0.099","06-14",101
+"214","Poplar Beach","",2022-07-18,"2022",7,18,"10.27","0.099","07-18",101
+"215","Poplar Beach","",2022-08-22,"2022",8,22,"0.78","0.099","08-22",101
+"216","Sturgeon Lake Regional Park","",2022-07-27,"2022",7,27,"4.19","0.099","07-27",101
+"217","Anderson Point Campground","",2022-07-19,"2022",7,19,"0.64","0.099","07-19",101
+"218","Minnowaka Beach","",2022-07-28,"2022",7,28,"0.64","0.099","07-28",101
+"219","Sandy Bay Campground Beach","candle lake",2022-07-28,"2022",7,28,"1.35","0.099","07-28",5
+"220","Little Bear Beach","",2022-07-28,"2022",7,28,"0.58","0.099","07-28",101
+"221","Smits Beach","",2022-07-05,"2022",7,5,"19.34","0.099","07-05",101
+"222","St. Brieux Beach","",2022-07-07,"2022",7,7,"3.28","0.099","07-07",101
+"223","Greenwater Beach","",2022-08-02,"2022",8,2,"63.01","0.099","08-02",101
+"224","Kipabiskau Regional Park","",2022-07-07,"2022",7,7,"0.15","0.099","07-07",101
+"225","Danielson’s Visitor Centre","lake diefenbaker",2022-07-18,"2022",7,18,"20.5","0.099","07-18",22
+"226","Danielson’s Visitor Centre","lake diefenbaker",2022-08-15,"2022",8,15,"3.42","0.099","08-15",22
+"227","Crystal Bay/Sunset Beach","",2022-08-23,"2022",8,23,"0.25","0.099","08-23",101
+"228","Prairie Lake Regional Park","",2022-07-18,"2022",7,18,"55.71","0.099","07-18",101
+"229","Sask Landing (Cottonwood Beach)","lake diefenbaker",2022-08-15,"2022",8,15,"0.64","0.099","08-15",22
+"230","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2022-06-28,"2022",6,28,"6.16","0.099","06-28",91
+"231","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2022-07-25,"2022",7,25,"7.3","0.099","07-25",91
+"232","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2022-08-29,"2022",8,29,"373.38","0.099","08-29",91
+"233","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2022-08-31,"2022",8,31,"53.55","0.099","08-31",91
+"234","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2022-09-02,"2022",9,2,"83.47","0.099","09-02",91
+"235","Marean Lake Beach","marean lake",2022-08-02,"2022",8,2,"14.05","0.099","08-02",3
+"236","Lady Beach","lady lake",2022-07-19,"2022",7,19,"3.17","0.099","07-19",2
+"237","Annie Laurie Beach","annie laurie lake",2022-07-19,"2022",7,19,"5.27","0.099","07-19",8
+"238","Sandy Beach","",2022-07-12,"2022",7,12,NA,"0.099","07-12",101
+"239","Canora Beach","",2022-07-12,"2022",7,12,"7.29","0.099","07-12",101
+"240","Bird's Point Beach","round lake",2022-08-09,"2022",8,9,"2.1","0.099","08-09",5
+"241","West End Resort","",2022-08-09,"2022",8,9,"1.27","0.099","08-09",101
+"242","Sunset Beach","crooked lake",2022-08-09,"2022",8,9,"482.19","0.099","08-09",12
+"243","Sunset Beach","crooked lake",2022-08-15,"2022",8,15,"7.66","0.099","08-15",12
+"244","Sunset Beach","crooked lake",2022-08-18,"2022",8,18,"131.19","0.099","08-18",12
+"245","Last Mountain Regional Park Beach","last mountain lake",2022-06-28,"2022",6,28,"1.55","0.099","06-28",91
+"246","Last Mountain Regional Park Beach","last mountain lake",2022-07-25,"2022",7,25,"35.8","0.099","07-25",91
+"247","Camp Whitesand Beach","",2022-07-19,"2022",7,19,"0.43","0.099","07-19",101
+"248","Leroy Leisureland Beach","",2022-07-11,"2022",7,11,"19.23","0.099","07-11",101
+"249","Lovering Lake Beach","",2022-08-09,"2022",8,9,"24.67","0.099","08-09",101
+"250","Lovering Lake Beach","",2022-08-15,"2022",8,15,"1.3",NA,"08-15",101
+"251","Lovering Lake Beach","",2022-08-18,"2022",8,18,"5.98","0.099","08-18",101
+"252","Aspen Grove Beach","blackstrap lake",2022-07-19,"2022",7,19,"0.32","1","07-19",12
+"253","Kevin Misfeldt Beach","",2022-07-19,"2022",7,19,"0.25","0.099","07-19",101
+"254","Thode Subdivision Beach","blackstrap lake",2022-07-19,"2022",7,19,"7.89","0.099","07-19",12
+"255","Stoney Beach","humboldt lake",2022-07-18,"2022",7,18,"13.44","0.099","07-18",2
+"256","Stoney Beach","humboldt lake",2022-08-15,"2022",8,15,"3.29","5","08-15",2
+"257","Pike Lake Beach","pike lake",2022-08-30,"2022",8,30,"8.55","0.1","08-30",8
+"258","Manitou Lake Main Beach","manitou lake",2022-07-14,"2022",7,14,"0.62","6214.2","07-14",2
+"259","Manitou Lake Main Beach","manitou lake",2022-08-08,"2022",8,8,"740.14","90.7","08-08",2
+"260","Regina Beach","last mountian lake",2022-06-23,"2022",6,23,"5.54","0.099","06-23",3
+"261","Regina Beach","last mountian lake",2022-07-24,"2022",7,24,"5.17","0.099","07-24",3
+"262","Regina Beach","last mountian lake",2022-08-10,"2022",8,10,"5.09","0.099","08-10",3
+"263","Lumsden Beach","last mountain lake",2022-06-26,"2022",6,26,"9.2","0.099","06-26",91
+"264","Lumsden Beach","last mountain lake",2022-07-18,"2022",7,18,"12.55","0.099","07-18",91
+"265","Lumsden Beach","last mountain lake",2022-08-08,"2022",8,8,"35.88","0.099","08-08",91
+"266","Sorenson Beach","last mountain lake",2022-06-26,"2022",6,26,"2.95","0.099","06-26",91
+"267","Sorenson Beach","last mountain lake",2022-07-26,"2022",7,26,"30.01","0.099","07-26",91
+"268","Sorenson Beach","last mountain lake",2022-08-29,"2022",8,29,"23.41","0.099","08-29",91
+"269","Sun Dale Beach","last mountain lake",2022-06-28,"2022",6,28,"38.7","0.099","06-28",91
+"270","Sun Dale Beach","last mountain lake",2022-07-27,"2022",7,27,"14.85","0.099","07-27",91
+"271","Sun Dale Beach","last mountain lake",2022-08-04,"2022",8,4,"171.18",NA,"08-04",91
+"272","Sun Dale Beach","last mountain lake",2022-08-09,"2022",8,9,"10.78","0.099","08-09",91
+"273","Sun Dale Beach","last mountain lake",2022-08-10,"2022",8,10,"4.66","0.099","08-10",91
+"274","Pelican Pointe","last mountain lake",2022-08-02,"2022",8,2,"12.88","0.099","08-02",91
+"275","Etters Beach","",2022-08-02,"2022",8,2,"101.02","0.099","08-02",101
+"276","Etters Beach","",2022-08-04,"2022",8,4,"17.87",NA,"08-04",101
+"277","Cabri Regional Park","",2022-08-08,"2022",8,8,"1.05","0.099","08-08",101
+"278","Boundary Dam Beach","",2022-09-01,"2022",9,1,"0.64","0.099","09-01",101
+"279","Nickle Lake Regional Park","",2022-07-18,"2022",7,18,"8.6","0.099","07-18",101
+"280","Moose Creek Regional Park","",2022-09-01,"2022",9,1,"2.81","0.099","09-01",101
+"281","Fort Campground Beach","",2022-07-18,"2022",7,18,"3.72","0.099","07-18",101
+"282","Pasqua Lake Beach","pasqua lake",2022-07-11,"2022",7,11,"33.63","0.099","07-11",2
+"283","Echo Provincial Park Beach","echo lake",2022-06-27,"2022",6,27,"2.02","0.099","06-27",56
+"284","Echo Provincial Park Beach","echo lake",2022-07-05,"2022",7,5,"5.04","0.099","07-05",56
+"285","Echo Provincial Park Beach","echo lake",2022-07-11,"2022",7,11,"3.17","0.099","07-11",56
+"286","Echo Provincial Park Beach","echo lake",2022-07-18,"2022",7,18,"1.55","0.099","07-18",56
+"287","Echo Provincial Park Beach","echo lake",2022-07-26,"2022",7,26,"2.25","0.099","07-26",56
+"288","Echo Provincial Park Beach","echo lake",2022-08-03,"2022",8,3,"2.44","0.099","08-03",56
+"289","Echo Provincial Park Beach","echo lake",2022-08-08,"2022",8,8,"4.51","0.099","08-08",56
+"290","Echo Provincial Park Beach","echo lake",2022-08-16,"2022",8,16,"9.95","0.099","08-16",56
+"291","Echo Provincial Park Beach","echo lake",2022-08-24,"2022",8,24,"2.29","0.099","08-24",56
+"292","Echo Provincial Park Beach","echo lake",2022-08-31,"2022",8,31,"2.44","0.099","08-31",56
+"293","Katepwa Beach","katepwa lake",2022-06-27,"2022",6,27,"0.15","0.099","06-27",40
+"294","Katepwa Beach","katepwa lake",2022-07-05,"2022",7,5,"0.7","0.099","07-05",40
+"295","Katepwa Beach","katepwa lake",2022-07-11,"2022",7,11,"0.64","0.099","07-11",40
+"296","Katepwa Beach","katepwa lake",2022-07-18,"2022",7,18,"0.78","0.099","07-18",40
+"297","Katepwa Beach","katepwa lake",2022-07-26,"2022",7,26,"11.16","0.099","07-26",40
+"298","Katepwa Beach","katepwa lake",2022-08-03,"2022",8,3,"7.73","0.099","08-03",40
+"299","Katepwa Beach","katepwa lake",2022-08-08,"2022",8,8,"1.7","0.099","08-08",40
+"300","Katepwa Beach","katepwa lake",2022-08-16,"2022",8,16,"0.15","0.099","08-16",40
+"301","Katepwa Beach","katepwa lake",2022-08-24,"2022",8,24,"0","0.099","08-24",40
+"302","B-Say-Tah Beach","echo lake",2022-06-27,"2022",6,27,"2.47","0.099","06-27",56
+"303","B-Say-Tah Beach","echo lake",2022-07-26,"2022",7,26,"0.15","0.099","07-26",56
+"304","B-Say-Tah Beach","echo lake",2022-08-31,"2022",8,31,"0","0.099","08-31",56
+"305","Echo Bible Camp Beach","",2022-08-03,"2022",8,3,"8.65","0.099","08-03",101
+"306","Camp Monahan","",2022-08-08,"2022",8,8,"0.43","0.099","08-08",101
+"307","Moosomin Regional Park","",2022-06-28,"2022",6,28,"8.9","0.099","06-28",101
+"308","Moosomin Regional Park","",2022-08-30,"2022",8,30,"102.33","0.099","08-30",101
+"309","Circle Square Ranch Beach","",2022-08-30,"2022",8,30,"10.43","0.099","08-30",101
+"310","Welwyn Centennial Regional Park","",2022-08-30,"2022",8,30,"2.05","0.099","08-30",101
+"311","Buffalo Pound Beach","buffalo pound lake",2022-06-27,"2022",6,27,"2.06","0.099","06-27",9
+"312","Buffalo Pound Beach","buffalo pound lake",2022-07-18,"2022",7,18,"9.4","0.099","07-18",9
+"313","Buffalo Pound Beach","buffalo pound lake",2022-08-09,"2022",8,9,"2.29","0.099","08-09",9
+"314","Camp Elim Beach","",2022-07-11,"2022",7,11,"3.64","0.099","07-11",101
+"315","Annie Laurie Beach","annie laurie lake",2023-06-27,"2023",6,27,"1.32","0.099","06-27",8
+"316","Annie Laurie Beach","annie laurie lake",2023-07-11,"2023",7,11,"1.64","0.099","07-11",8
+"317","Annie Laurie Beach","annie laurie lake",2023-07-24,"2023",7,24,"2.17","0.099","07-24",8
+"318","Annie Laurie Beach","annie laurie lake",2023-08-08,"2023",8,8,"1.64","0.099","08-08",8
+"319","Annie Laurie Beach","annie laurie lake",2023-08-22,"2023",8,22,"14.44","5","08-22",8
+"320","Annie Laurie Beach","annie laurie lake",2023-09-06,"2023",9,6,"3.1","0.099","09-06",8
+"321","Aspen Grove Beach","blackstrap lake",2023-07-12,"2023",7,12,"1","0.099","07-12",12
+"322","Aspen Grove Beach","blackstrap lake",2023-07-25,"2023",7,25,"1","0.099","07-25",12
+"323","Aspen Grove Beach","blackstrap lake",2023-08-22,"2023",8,22,"1.15","0.099","08-22",12
+"324","Barrier Ford Beach","",2023-07-27,"2023",7,27,"1.15","0.099","07-27",101
+"325","Bells Beach","",2023-07-11,"2023",7,11,"2.67","0.099","07-11",101
+"326","Bells Beach","",2023-08-10,"2023",8,10,"1.52","0.099","08-10",101
+"327","Bells Beach","",2023-08-28,"2023",8,28,"6.41","0.099","08-28",101
+"328","Buffalo Pound Provincial Park Beach","buffalo pound lake",2023-06-26,"2023",6,26,"4.28","5","06-26",9
+"329","Buffalo Pound Provincial Park Beach","buffalo pound lake",2023-07-10,"2023",7,10,"1.89","0.099","07-10",9
+"330","Buffalo Pound Provincial Park Beach","buffalo pound lake",2023-07-27,"2023",7,27,"4.2","0.099","07-27",9
+"331","Buffalo Pound Provincial Park Beach","buffalo pound lake",2023-08-28,"2023",8,28,"2.51","0.099","08-28",9
+"332","Buena Vista Beach","",2023-07-24,"2023",7,24,"1.64","0.099","07-24",101
+"333","Chitek Lake Campground Beach","",2023-08-08,"2023",8,8,"82.27","0.099","08-08",101
+"334","Clearwater Lake Regional Park Beach","",2023-07-25,"2023",7,25,"3.35","0.099","07-25",101
+"335","Cypress Hills Interprovincial Park West Beach","loch leven",2023-06-26,"2023",6,26,"1.15","0.099","06-26",6
+"336","Cypress Hills Interprovincial Park West Beach","loch leven",2023-07-11,"2023",7,11,"1.89","0.099","07-11",6
+"337","Cypress Hills Interprovincial Park West Beach","loch leven",2023-07-25,"2023",7,25,"5.04","0.099","07-25",6
+"338","Cypress Hills Interprovincial Park West Beach","loch leven",2023-08-08,"2023",8,8,"2.8","0.099","08-08",6
+"339","Cypress Hills Interprovincial Park West Beach","loch leven",2023-08-22,"2023",8,22,"2.27","0.099","08-22",6
+"340","Cypress Hills Interprovincial Park West Beach","loch leven",2023-09-05,"2023",9,5,"1.64","0.099","09-05",6
+"341","Danielson Visitor’s Center Beach","thompson arm",2023-07-04,"2023",7,4,"1.15","0.099","07-04",5
+"342","Danielson Visitor’s Center Beach","thompson arm",2023-07-19,"2023",7,19,"8.36","0.099","07-19",5
+"343","Danielson Visitor’s Center Beach","thompson arm",2023-08-01,"2023",8,1,"2.7","0.099","08-01",5
+"344","Danielson Visitor’s Center Beach","thompson arm",2023-08-14,"2023",8,14,"1.74","0.099","08-14",5
+"345","Danielson Visitor’s Center Beach","thompson arm",2023-08-29,"2023",8,29,"1.52","0.099","08-29",5
+"346","Dallas Valley Beach","",2023-08-09,"2023",8,9,"25.3","0.099","08-09",101
+"347","Darlings Beach","lac pelletier lake",2023-07-11,"2023",7,11,"2.17","0.099","07-11",8
+"348","Darlings Beach","lac pelletier lake",2023-07-25,"2023",7,25,"3.25","0.099","07-25",8
+"349","Darlings Beach","lac pelletier lake",2023-08-08,"2023",8,8,"1","0.099","08-08",8
+"350","Darlings Beach","lac pelletier lake",2023-08-21,"2023",8,21,"1","0.099","08-21",8
+"351","Darlings Beach","lac pelletier lake",2023-09-04,"2023",9,4,"1.25","0.099","09-04",8
+"352","Echo Provincial Park Beach","echo lake",2023-06-27,"2023",6,27,"1.89","0.099","06-27",56
+"353","Echo Provincial Park Beach","echo lake",2023-07-05,"2023",7,5,"4.51","0.099","07-05",56
+"354","Echo Provincial Park Beach","echo lake",2023-07-13,"2023",7,13,"3.52","0.099","07-13",56
+"355","Echo Provincial Park Beach","echo lake",2023-07-19,"2023",7,19,"3.47","0.099","07-19",56
+"356","Echo Provincial Park Beach","echo lake",2023-07-25,"2023",7,25,"1.15","0.099","07-25",56
+"357","Echo Provincial Park Beach","echo lake",2023-08-01,"2023",8,1,"2.61","0.099","08-01",56
+"358","Echo Provincial Park Beach","echo lake",2023-08-08,"2023",8,8,"3.57","0.099","08-08",56
+"359","Echo Provincial Park Beach","echo lake",2023-08-15,"2023",8,15,"6.33","0.099","08-15",56
+"360","Echo Provincial Park Beach","echo lake",2023-08-23,"2023",8,23,"5.26","0.099","08-23",56
+"361","Echo Provincial Park Beach","echo lake",2023-08-29,"2023",8,29,"1.52","0.099","08-29",56
+"362","Echo Provincial Park Beach","echo lake",2023-09-06,"2023",9,6,"16.29","0.099","09-06",56
+"363","Good Spirit Lake Provincial Park Beach","good spirit lake",2023-07-04,"2023",7,4,"2.55","0.099","07-04",6
+"364","Good Spirit Lake Provincial Park Beach","good spirit lake",2023-07-11,"2023",7,11,"2.05","0.099","07-11",6
+"365","Good Spirit Lake Provincial Park Beach","good spirit lake",2023-07-18,"2023",7,18,"1.89","0.099","07-18",6
+"366","Good Spirit Lake Provincial Park Beach","good spirit lake",2023-07-25,"2023",7,25,"6.53","0.099","07-25",6
+"367","Good Spirit Lake Provincial Park Beach","good spirit lake",2023-08-08,"2023",8,8,"1.15","0.099","08-08",6
+"368","Good Spirit Lake Provincial Park Beach","good spirit lake",2021-08-21,"2021",8,21,"3.64","0.099","08-21",6
+"369","Greenwater Beach","greenwater lake",2023-06-28,"2023",6,28,"7.19","0.099","06-28",6
+"370","Greenwater Beach","greenwater lake",2023-07-11,"2023",7,11,"2.65","0.099","07-11",6
+"371","Greenwater Beach","greenwater lake",2023-07-25,"2023",7,25,"1.25","0.099","07-25",6
+"372","Greenwater Beach","greenwater lake",2023-08-14,"2023",8,14,"1.78","0.099","08-14",6
+"373","Greenwater Beach","greenwater lake",2023-08-28,"2023",8,28,"1.64","0.099","08-28",6
+"374","Katepwa Beach","katepwa lake",2023-06-27,"2023",6,27,"1.32","0.099","06-27",40
+"375","Katepwa Beach","katepwa lake",2023-07-05,"2023",7,5,"1","0.099","07-05",40
+"376","Katepwa Beach","katepwa lake",2023-07-13,"2023",7,13,"2.27","0.099","07-13",40
+"377","Katepwa Beach","katepwa lake",2023-07-19,"2023",7,19,"2.49","0.099","07-19",40
+"378","Katepwa Beach","katepwa lake",2023-07-25,"2023",7,25,"60.15","0.099","07-25",40
+"379","Katepwa Beach","katepwa lake",2023-08-01,"2023",8,1,"17.07","0.099","08-01",40
+"380","Katepwa Beach","katepwa lake",2023-08-08,"2023",8,8,"11.96","0.099","08-08",40
+"381","Katepwa Beach","katepwa lake",2023-08-15,"2023",8,15,"7.13","0.099","08-15",40
+"382","Katepwa Beach","katepwa lake",2023-08-23,"2023",8,23,"4.02","0.099","08-23",40
+"383","Katepwa Beach","katepwa lake",2023-08-29,"2023",8,29,"1.58","0.099","08-29",40
+"384","Katepwa Beach","katepwa lake",2023-09-06,"2023",9,6,"54.09","0.099","09-06",40
+"385","Kevin Misfeldt Beach Area Beach","",2023-08-09,"2023",8,9,"2.7","0.099","08-09",101
+"386","Kevin Misfeldt Beach Area Beach","",2023-08-22,"2023",8,22,"1","0.099","08-22",101
+"387","Kimball Lake Campground Beach","meadow lake",2023-07-12,"2023",7,12,"1","0.099","07-12",4
+"388","Kimball Lake Campground Beach","meadow lake",2023-07-25,"2023",7,25,"2.35","0.099","07-25",4
+"389","Kimball Lake Campground Beach","meadow lake",2023-08-08,"2023",8,8,"1","0.099","08-08",4
+"390","Kimball Lake Campground Beach","meadow lake",2023-08-22,"2023",8,22,"2.35","0.099","08-22",4
+"391","Kipabiskau Beach","",2023-07-27,"2023",7,27,"1","0.099","07-27",101
+"392","Leroy Leisureland Main Beach/Pool Area","",2023-07-04,"2023",7,4,"96.4","0.099","07-04",101
+"393","Leroy Leisureland Main Beach/Pool Area","",2023-07-25,"2023",7,25,"1","0.099","07-25",101
+"394","Leroy Leisureland Main Beach/Pool Area","",2023-08-01,"2023",8,1,"1","0.099","08-01",101
+"395","Leroy Leisureland Main Beach/Pool Area","",2023-08-15,"2023",8,15,"397.8","17.6","08-15",101
+"396","Leroy Leisureland Main Beach/Pool Area","",2023-08-21,"2023",8,21,"2.24","0.099","08-21",101
+"397","Leslie Beach Regional Park Beach","fishing lake",2023-06-27,"2023",6,27,"1.25","0.099","06-27",7
+"398","Leslie Beach Regional Park Beach","fishing lake",2023-07-11,"2023",7,11,"1.32","0.099","07-11",7
+"399","Leslie Beach Regional Park Beach","fishing lake",2023-07-25,"2023",7,25,"5.37","0.099","07-25",7
+"400","Leslie Beach Regional Park Beach","fishing lake",2023-08-08,"2023",8,8,"1","0.099","08-08",7
+"401","Leslie Beach Regional Park Beach","fishing lake",2023-08-22,"2023",8,22,"193.33","0.099","08-22",7
+"402","Leslie Beach Regional Park Beach","fishing lake",2023-08-29,"2023",8,29,"2.55","0.099","08-29",7
+"403","Little Manitou Beach","little manitou",2023-06-27,"2023",6,27,"4.48","0.099","06-27",5
+"404","Little Manitou Beach","little manitou",2023-07-10,"2023",7,10,"10.41","0.099","07-10",5
+"405","Little Manitou Beach","little manitou",2023-07-24,"2023",7,24,"2.51","0.099","07-24",5
+"406","Little Manitou Beach","little manitou",2023-08-08,"2023",8,8,NA,"0.099","08-08",5
+"407","Little Manitou Beach","little manitou",2023-08-21,"2023",8,21,"1","0.099","08-21",5
+"408","Lumsden Beach","last mountain lake",2023-06-25,"2023",6,25,"4.48","0.099","06-25",91
+"409","Lumsden Beach","last mountain lake",2023-07-23,"2023",7,23,"1.64","0.099","07-23",91
+"410","Lumsden Beach","last mountain lake",2023-08-06,"2023",8,6,"3.89","0.099","08-06",91
+"411","Lumsden Beach","last mountain lake",2023-08-20,"2023",8,20,"59.66","0.099","08-20",91
+"412","Marean Lake Beach","",2023-07-27,"2023",7,27,"97.05","0.099","07-27",101
+"413","Melville Beach","crooked lake",2023-06-26,"2023",6,26,"6.82","0.099","06-26",12
+"414","Melville Beach","crooked lake",2023-07-10,"2023",7,10,"1.32","0.099","07-10",12
+"415","Melville Beach","crooked lake",2023-07-25,"2023",7,25,"3.41","0.099","07-25",12
+"416","Melville Beach","crooked lake",2021-08-09,"2021",8,9,"1.32","0.099","08-09",12
+"417","Melville Beach","crooked lake",2023-08-21,"2023",8,21,"20.47","0.099","08-21",12
+"418","Melville Beach","crooked lake",2023-09-05,"2023",9,5,"1.25","0.099","09-05",12
+"419","Ministik Beach","madge lake",2023-07-09,"2023",7,9,"1.43","0.099","07-09",7
+"420","Ministik Beach","madge lake",2023-07-18,"2023",7,18,"1.58","0.099","07-18",7
+"421","Ministik Beach","madge lake",2023-08-01,"2023",8,1,"2.08","0.099","08-01",7
+"422","Ministik Beach","madge lake",2023-08-16,"2023",8,16,"5.33","0.099","08-16",7
+"423","Ministik Beach","madge lake",2023-08-29,"2023",8,29,"6.57","0.099","08-29",7
+"424","Ministikwan Lake Campground/Picnic Beach","",2023-08-15,"2023",8,15,"3.52","0.099","08-15",101
+"425","Moose Mountain Provincial Park Beach","",2023-07-10,"2023",7,10,"1.32","0.099","07-10",101
+"426","Moose Mountain Provincial Park Beach","",2023-08-22,"2023",8,22,"1.43","0.099","08-22",101
+"427","Moosomin Regional Park","",2023-07-04,"2023",7,4,"2.7","0.099","07-04",101
+"428","Moosomin Regional Park","",2023-07-17,"2023",7,17,"2.86","0.099","07-17",101
+"429","Moosomin Regional Park","",2023-07-24,"2023",7,24,"2.93","0.099","07-24",101
+"430","Moosomin Regional Park","",2023-07-31,"2023",7,31,"1","0.099","07-31",101
+"431","Moosomin Regional Park","",2023-08-14,"2023",8,14,"1.38","0.099","08-14",101
+"432","Morin Lake Regional Park Beach","morin lake",2023-06-26,"2023",6,26,"1.72","0.099","06-26",5
+"433","Morin Lake Regional Park Beach","morin lake",2023-07-10,"2023",7,10,"1.15","0.099","07-10",5
+"434","Morin Lake Regional Park Beach","morin lake",2023-07-24,"2023",7,24,"4.64","0.099","07-24",5
+"435","Morin Lake Regional Park Beach","morin lake",2023-08-09,"2023",8,9,"1","0.099","08-09",5
+"436","Morin Lake Regional Park Beach","morin lake",2023-08-21,"2023",8,21,"1.15","0.099","08-21",5
+"437","Palliser Regional Park Beach","",2023-07-25,"2023",7,25,"55.08","0.099","07-25",101
+"438","Palliser Regional Park Beach","",2023-08-07,"2023",8,7,"1.62","0.099","08-07",101
+"439","Pickerel Point Beach","",2023-07-09,"2023",7,9,"1","0.099","07-09",101
+"440","Pickerel Point Beach","",2023-07-18,"2023",7,18,"1","0.099","07-18",101
+"441","Pickerel Point Beach","",2023-08-01,"2023",8,1,"1","0.099","08-01",101
+"442","Pickerel Point Beach","",2023-08-16,"2023",8,16,"1","0.099","08-16",101
+"443","Pickerel Point Beach","",2023-08-29,"2023",8,29,"1.32","0.099","08-29",101
+"444","Pike Lake Main Beach","pike lake",2023-07-12,"2023",7,12,"1.15","0.099","07-12",8
+"445","Pike Lake Main Beach","pike lake",2023-07-25,"2023",7,25,"1.25","0.099","07-25",8
+"446","Pike Lake Main Beach","pike lake",2023-07-31,"2023",7,31,"1","0.099","07-31",8
+"447","Pike Lake Main Beach","pike lake",2023-08-14,"2023",8,14,"3.5","0.099","08-14",8
+"448","Pike Lake Main Beach","pike lake",2023-08-28,"2023",8,28,"1.15","0.099","08-28",8
+"449","Poplar Beach","last mountain lake",2023-07-11,"2023",7,11,"4.22","0.099","07-11",91
+"450","Poplar Beach","last mountain lake",2023-08-15,"2023",8,15,"4.82","0.099","08-15",91
+"451","Poplar Beach","last mountain lake",2023-09-05,"2023",9,5,"9.34","0.099","09-05",91
+"452","Regina Beach","last mountain lake",2023-06-26,"2023",6,26,"5","0.099","06-26",91
+"453","Regina Beach","last mountain lake",2023-07-04,"2023",7,4,"4.64","0.099","07-04",91
+"454","Regina Beach","last mountain lake",2023-07-10,"2023",7,10,"4.1","0.099","07-10",91
+"455","Regina Beach","last mountain lake",2023-07-18,"2023",7,18,"19.47","0.099","07-18",91
+"456","Regina Beach","last mountain lake",2023-07-24,"2023",7,24,"8.69","0.099","07-24",91
+"457","Regina Beach","last mountain lake",2023-08-02,"2023",8,2,"20.9","0.099","08-02",91
+"458","Regina Beach","last mountain lake",2023-08-09,"2023",8,9,"7.27","0.099","08-09",91
+"459","Regina Beach","last mountain lake",2023-08-16,"2023",8,16,"105.6","0.099","08-16",91
+"460","Regina Beach","last mountain lake",2023-08-22,"2023",8,22,"9.13","0.099","08-22",91
+"461","Regina Beach","last mountain lake",2023-08-30,"2023",8,30,"37.37","0.099","08-30",91
+"462","Regina Beach","last mountain lake",2023-08-31,"2023",8,31,"6.95",NA,"08-31",91
+"463","Regina Beach","last mountain lake",2023-09-05,"2023",9,5,"22.68","0.099","09-05",91
+"464","Resort Village of Aquadeo","jackfish lake",2023-07-09,"2023",7,9,"18.94","0.099","07-09",12
+"465","Resort Village of Aquadeo","jackfish lake",2023-07-23,"2023",7,23,"4.32","0.099","07-23",12
+"466","Resort Village of Aquadeo","jackfish lake",2023-08-07,"2023",8,7,"1.58","0.099","08-07",12
+"467","Resort Village of Aquadeo","jackfish lake",2023-08-20,"2023",8,20,"2.45","0.099","08-20",12
+"468","Resort Village of Cochin","jackfish lake",2023-08-15,"2023",8,15,"1","0.099","08-15",12
+"469","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-06-26,"2023",6,26,"5.8","0.099","06-26",91
+"470","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-07-04,"2023",7,4,"9.61","0.099","07-04",91
+"471","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-07-10,"2023",7,10,"2.6","0.099","07-10",91
+"472","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-07-18,"2023",7,18,"4.64","0.099","07-18",91
+"473","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-07-24,"2023",7,24,"3.87","0.099","07-24",91
+"474","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-08-02,"2023",8,2,"1.15","0.099","08-02",91
+"475","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-08-09,"2023",8,9,"4.32","0.099","08-09",91
+"476","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-08-16,"2023",8,16,"268.5","0.099","08-16",91
+"477","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-08-22,"2023",8,22,"6.56","0.099","08-22",91
+"478","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-08-30,"2023",8,30,"331.1","0.099","08-30",91
+"479","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-08-31,"2023",8,31,"64.57","0.099","08-31",91
+"480","Rowan's Ravine Provincial Park Main Beach Area","last mountain lake",2023-09-05,"2023",9,5,"17.44","0.099","09-05",91
+"481","Sandy Bay Campground Beach","candle lake",2023-07-11,"2023",7,11,"2.17","0.099","07-11",5
+"482","Sandy Bay Campground Beach","candle lake",2023-08-09,"2023",8,9,"1.89","0.099","08-09",5
+"483","Sandy Bay Campground Beach","candle lake",2023-08-28,"2023",8,28,"2.51","0.099","08-28",5
+"484","Sask Landing Provincial Park Beach (Cottonwood)","",2023-07-18,"2023",7,18,"12","0.099","07-18",101
+"485","Sask Landing Provincial Park Beach (Cottonwood)","",2023-08-01,"2023",8,1,"1","0.099","08-01",101
+"486","Sask Landing Provincial Park Beach (Cottonwood)","",2023-08-14,"2023",8,14,"1","0.099","08-14",101
+"487","Sask Landing Provincial Park Beach (Cottonwood)","",2023-08-29,"2023",8,29,"1","0.099","08-29",101
+"488","St. Brieux Beach","",2023-07-27,"2023",7,27,"1","0.099","07-27",101
+"489","Stabler Point Beach","",2023-06-27,"2023",6,27,"6.82","0.099","06-27",101
+"490","Stabler Point Beach","",2023-07-12,"2023",7,12,"1.32","0.099","07-12",101
+"491","Stabler Point Beach","",2023-07-25,"2023",7,25,"4.28","0.099","07-25",101
+"492","Stabler Point Beach","",2023-08-08,"2023",8,8,"3.17","0.099","08-08",101
+"493","Stabler Point Beach","",2023-08-22,"2023",8,22,"1.15","0.099","08-22",101
+"494","Stoney Beach","stoney beach lake",2023-07-13,"2023",7,13,"1.3","34","07-13",5
+"495","Stoney Beach","stoney beach lake",2023-07-17,"2023",7,17,"1.32","69.9","07-17",5
+"496","Stoney Beach","stoney beach lake",2023-08-01,"2023",8,1,"1","17.6","08-01",5
+"497","Stoney Beach","stoney beach lake",2023-08-15,"2023",8,15,"1.49","5","08-15",5
+"498","Stoney Beach","stoney beach lake",2023-08-30,"2023",8,30,"3.29","0.099","08-30",5
+"499","Sunnyside Beach","",2023-08-10,"2023",8,10,"2.61","0.099","08-10",101
+"500","Sunnyside Beach","",2023-08-29,"2023",8,29,"2.7","0.099","08-29",101
+"501","Sunset Bay Beach","",2023-07-11,"2023",7,11,"1.64","0.099","07-11",101
+"502","Thode Subdivision Beach Area","blackstrap lake",2023-07-12,"2023",7,12,"1.15","0.099","07-12",12
+"503","Thode Subdivision Beach Area","blackstrap lake",2023-08-09,"2023",8,9,"1.15","0.099","08-09",12
+"504","Thode Subdivision Beach Area","blackstrap lake",2023-08-23,"2023",8,23,"1.25","5","08-23",12
+"505","Wakaw Lake Regional Park Main Beach","wakaw lake",2023-07-03,"2023",7,3,"4.74","0.099","07-03",8
+"506","Wakaw Lake Regional Park Main Beach","wakaw lake",2023-07-17,"2023",7,17,"3.1","0.099","07-17",8
+"507","Wakaw Lake Regional Park Main Beach","wakaw lake",2023-08-01,"2023",8,1,"1.43","0.099","08-01",8
+"508","Wakaw Lake Regional Park Main Beach","wakaw lake",2023-08-14,"2023",8,14,"1.43","0.099","08-14",8
+"509","Wakaw Lake Regional Park Main Beach","wakaw lake",2023-08-28,"2023",8,28,"2.51","0.099","08-28",8
+"510","Waskateena Beach","",2023-08-09,"2023",8,9,"1.15","0.099","08-09",101
+"511","Waskateena Beach","",2023-08-28,"2023",8,28,"12.84","0.099","08-28",101

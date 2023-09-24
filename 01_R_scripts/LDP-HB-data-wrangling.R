@@ -31,7 +31,7 @@ setwd("C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches")
 
 #import file
 healthy_beaches <- read.csv(
-  "C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches\\00_raw_data\\Healthy_beaches_data2019-23.csv")
+  "C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches\\00_raw_data\\Healthy_beaches_raw_data2019-23.csv")
 
 #view 
 str(healthy_beaches)
@@ -55,6 +55,9 @@ beaches_clean <- beaches_clean %>%
 beaches_clean <- separate(data = beaches_clean, col = visit_date,
                          into = c("Year", "Month", "Day"),
                          sep = "-", remove = FALSE)
+
+#and then create a month-day column for later visualization 
+beaches_clean$month_day <-paste(beaches_clean$Month, beaches_clean$Day, sep = "-")
 
 #view changes to make sure the previous code worked as intended 
 str(beaches_clean)
@@ -156,6 +159,24 @@ theme_set(theme_bw())
 ggplot(data = beaches_lml_subset, 
        mapping = aes(x = Month, y = Ec_per100mL)) +
   geom_point() + 
-  facet_grid(Year ~ Rec_area)
+  facet_grid(Year ~ Rec_area) + 
+  labs(y = "E. coli amount (CFU/100mL)")
 
+#It looks like E. coli levels regularly increase in August at Regina Beach and 
+#Rowan's Ravine Provincial Park beach 
+#Let's look closer at them: 
+beaches_lml_subset %>%  
+  subset(Rec_visit_count >= 15) %>% 
+  ggplot(mapping = aes(x = month_day, y = Ec_per100mL)) + 
+  geom_point() + 
+  facet_grid(Year ~ Rec_area) + 
+  labs(x = "Sampling month and day", y = "E. coli amount (CFU/100mL)") + 
+  theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
 
+#We will stop here for this project further work includes visualizing this type of data for other lakes 
+#and microcystin data as well
+
+#Export our clean data 
+write.csv(beaches_clean, "C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches\\02_clean_data\\Healthy_beaches_clean_data2019-23.csv")
+
+#I used the built in RStudio gui to save figures into the appropriate folder
