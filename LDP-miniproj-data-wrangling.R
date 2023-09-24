@@ -17,13 +17,14 @@
 #load packages
 library(tidyverse)
 library(lubridate)
+library(stringdist)
 
 #check working directory 
 getwd()
 
 #import file
 healthy_beaches <- read.csv(
-  "C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-luq-streamchem\\LDP-mini-proj-Healthy-Beaches\\Healthy_beaches_19-23.csv")
+  "C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches\\Healthy_beaches_19-23.csv")
 
 #view 
 str(healthy_beaches)
@@ -56,30 +57,75 @@ beaches_clean$Year <- as.numeric(beaches_clean$Year)
 beaches_clean$Month <- as.numeric(beaches_clean$Month)
 beaches_clean$Day <- as.numeric(beaches_clean$Day)
 beaches_clean$Ec_per100mL <- as.numeric(beaches_clean$Ec_per100mL)
+
+#and then make the location a factor 
+beaches_clean$Location <- as.factor(beaches_clean$Location) 
+
 #View
 str(beaches_clean)
 
-## (5.4) use a cluster diagram to visualize typos
+#remove any potential extraneous spaces that might exist in the data
+#for location
+beaches_clean <- beaches_clean %>% 
+     mutate(Location = str_trim(Location, side = "both"))
 
-dist.matrix <- stringdistmatrix(penguins$speciesL, penguins$speciesL, 
-                                method = 'jw', p = 0.1)
-row.names(dist.matrix) <- penguins$speciesL
-names(dist.matrix) <- penguins$speciesL
-dist.matrix <- as.dist(dist.matrix)
-clusters <- hclust(dist.matrix, method = "ward.D2")
-plot(clusters)
+#for microcystin per microgram per litre
+beaches_clean <- beaches_clean %>% 
+  mutate(Mc_ugL = str_trim(Mc_ugL, side = "both"))
 
+#for year 
+beaches_clean <- beaches_clean %>% 
+  mutate(Year = str_trim(Year, side = "both"))
 
-## (5.5) Use stringr::str_trim() to remove extra white spaces 
+#for E. coli per 100 mL 
+beaches_clean <- beaches_clean %>% 
+  mutate(Ec_per100mL = str_trim(Ec_per100mL, side = "both"))
 
-## we don't have an example of this sort of error in the dataset, but
-## let's pretend one speciesL cell contains " antarcticus " (with white 
-## spaces both before and after the word)
+#since the Healthy Beaches program went to a lot of lakes (some for few visits) 
+#lets summarize the locations column to see what the top locations are 
+beaches_clean %>% 
+  count(Location) %>% 
+  arrange(n)
 
-## you could use the following to strip/trim the white space out:
-# penguins <- penguins %>% 
-#   mutate(speciesL = str_trim(speciesL, side = "both"))
+#this list also shows naming inconsistencies that we need to fix 
+beaches_clean$Location <- tolower(beaches_clean$Location)
 
+#try to count again and see if that fixed it: 
+beaches_clean %>% 
+  count(Location) %>% 
+  arrange(n)
 
+#let's make a column for that information so we can use it to create a subset 
+beaches_clean <- beaches_clean %>%  
+  group_by(Location) %>% 
+  mutate(sample_count = n())
+head(beaches_clean)
+
+#and now create a data subset that looks at just the top eight lakes sampled
+#this requires us to convert to a dataframe: 
+beaches_clean <- data.frame(beaches_clean)
+
+beaches_subset <- beaches_clean %>% 
+  subset(sample_count >= 9)
+str(beaches_subset)
+
+#for some reason, some of our values returned to character datatypes 
+beaches_subset$Year <- as.numeric(beaches_subset$Year)
+beaches_subset$Ec_per100mL <- as.numeric(beaches_subset$Ec_per100mL)
+beaches_subset$Mc_ugL <- as.numeric(beaches_subset$Mc_ugL)
 
 #Data visualization------------------------------------------------------------
+
+#Let's mean the E. coli per year and then visualize that by Location 
+#first, we need to see how many visits happened per location per year and add
+#that as a column 
+beaches_subset %>%
+  group_by(Location, Year) %>% 
+  mutate(yearly_sample_tally = n())
+
+#now we can mean 
+ggplot(data = beaches_subset, 
+       mapping = aes(x = Year, y = Ec_per100mL, color = Rec_area)) +
+  geom_line() + 
+  facet_wrap(beaches_subset$Location)
+
