@@ -23,8 +23,10 @@ The file naming convention within this directory uses the project title in long 
 
 * *Raw and clean data:* Project_File-contents_sask-gov-archive-year_Version.file-type
 
-* *Figures:* data-subset-abbreviated_variable-by-other-variable-plotted_Version.file-type
+* *Figures:* Data-subset-abbreviated_Variable-by-other-variable-plotted_Version.file-type
+  
+* *Script:* Abbreviated-project-name_Script-purpose_Version.file-type
 
-* *Script:* Preregistration_for_Project_Version.file-type
+* *Preregistration:* Preregistration_for_Project_Version.file-type
 
 * *Manuscript:* Project_Abbreviated-title_Version.file-type
