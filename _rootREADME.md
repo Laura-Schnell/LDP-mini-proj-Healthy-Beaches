@@ -3,7 +3,7 @@
 **Created by:** Laura Schnell
 **Date updated:** 2023-9-25
 
-Beaches provide important ecosystem and recreational services. The presence of harmful bacteria or toxins in beach water can pose a threat to both humans and wildlife. The Saskatchewan Department of Health surveys beach water regularly each summer and records information on E. coli (potentially pathogenic bacteria) and microcystin (a hepatotoxin) levels in water samples. In this project, I aim to compare the amount of E. coli at specific recreational areas over time. This project is part of the requirements for the Living Data Project Productivity and Reproducibility in Ecology and Evolution taken in Fall semester of 2023. 
+Beaches provide important ecosystem and recreational services. The presence of harmful bacteria or toxins in beach water can pose a threat to both humans and wildlife. The Saskatchewan Department of Health surveys beach water regularly each summer and records information on *E. coli* (potentially pathogenic bacteria) and microcystin (a hepatotoxin) levels in water samples. In this project, I aim to compare the amount of *E. coli* at specific recreational areas over time. This project is part of the requirements for the Living Data Project Productivity and Reproducibility in Ecology and Evolution taken in Fall semester of 2023. 
 
 **File structure:**
 * *Folder 00_raw_data* contains the data collected from the Healthy Beaches program data archive hosted by the Government of Saskatchewan and found here: https://publications.saskatchewan.ca/#/categories/4324. This data was transferred from .pdf format to .csv by Laura Schnell. 
