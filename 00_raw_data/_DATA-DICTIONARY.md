@@ -15,6 +15,6 @@ Data was collected from the Healthy Beaches program results archive hosted by th
 
 * *Date:* sampling/visit date is given in year, month, day format.
 
-* *Ec_per100mL:* E. coli levels were recorded in colony forming units (CFU) per 100 mL of water. Water was cultured by the Roy Romanow Provincial Lab. E. coli is abbreviated to ec.
+* *Ec_per100mL:* *E. coli* levels were recorded in colony forming units (CFU) per 100 mL of water. Water was cultured by the Roy Romanow Provincial Lab. *E. coli* is abbreviated to ec.
   
 * *Mc_ugL:* Microcystin levels are recorded in micrograms per litre and measured by enzyme-linked immunosorbent assays (ELISAs) performed by the Roy Romanow Provincial Lab. Microcystin is abbreviated to Mc. 
