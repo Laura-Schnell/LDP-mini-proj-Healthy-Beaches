@@ -16,7 +16,7 @@ Data collected from the Healthy Beaches program results archive hosted by the Sa
 * a separate column was added for Year, Month, and Day data as well as month-day
 * a column to track sample counts (how many times a lake had been sampled over the four years of the project from any recreational site) was included to determine the most-sampled lake. 
 
-*Data subsetting:* to make it easier to visualize differences in E. coli measurements over summer, data was subset in the script to look at only the most sampled lakes. It was then further subset to visualize the two most-sampled recreational areas at that lake. These was not exported into the clean_data folder. 
+*Data subsetting:* to make it easier to visualize differences in *E. coli* measurements over summer, data was subset in the script to look at only the most sampled lakes. It was then further subset to visualize the two most-sampled recreational areas at that lake. These was not exported into the clean_data folder. 
 
 **Variable descriptions:**
 
@@ -32,7 +32,7 @@ Data collected from the Healthy Beaches program results archive hosted by the Sa
      
    * *Day:* The day of the month that sampling occured
      
-   * *Ec_per100mL:* E. coli levels were recorded in colony forming units (CFU) per 100 mL of water. Water was cultured by the Roy Romanow Provincial Lab. E. coli is abbreviated to ec.
+   * *Ec_per100mL:* *E. coli* levels were recorded in colony forming units (CFU) per 100 mL of water. Water was cultured by the Roy Romanow Provincial Lab. *E. coli* is abbreviated to ec.
 
   *  *Mc_ugL:* Microcystin levels are recorded in micrograms per litre and measured by enzyme-linked immunosorbent assays (ELISAs) performed by the Roy Romanow Provincial Lab. Microcystin is abbreviated to Mc.
     
