@@ -20,8 +20,12 @@ install.packages("lubridate")
 install.packages("stringdist")
 
 #library for when I make preregistration 
-install.packages("prereg") 
-library(prereg) #load 
+#install.packages("prereg") 
+#library(prereg) #load 
+
+#library for when I make the manuscript 
+#install.packages("grateful")
+#library("grateful") #load
 
 #load packages for data wrangling 
 library(tidyverse)
