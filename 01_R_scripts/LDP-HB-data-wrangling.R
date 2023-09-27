@@ -42,7 +42,7 @@ setwd("C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches")
 
 #import file
 healthy_beaches <- read.csv(
-  "C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches\\00_raw_data\\Healthy_beaches_raw_data2019-23.csv")
+  "C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches\\00_raw_data\\Healthy_beaches_raw-data-2019-23.csv")
 
 #view 
 str(healthy_beaches)
@@ -193,3 +193,6 @@ beaches_lml_subset %>%
 write.csv(beaches_clean, "C:\\Users\\laura\\Documents\\GitHub\\LDP-mini-proj-Healthy-Beaches\\02_clean_data\\Healthy_beaches_clean_data2019-23.csv")
 
 #I used the built in RStudio gui to save figures into the appropriate folder
+
+#take an renv snapshot
+renv::snapshot()
