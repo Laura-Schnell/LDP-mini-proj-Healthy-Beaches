@@ -26,6 +26,8 @@ install.packages("stringdist")
 #library for when I make the manuscript 
 #install.packages("grateful")
 #library("grateful") #load
+#tinytex::install_tinytex()
+#library("tinytex")
 
 #load packages for data wrangling 
 library(tidyverse)
@@ -116,7 +118,7 @@ beaches_clean %>%
   count(Location) %>% 
   arrange(n)
 
-#let's make a column for that information so we can use it to create a subset 
+#let's make a column for the sampling counts so we can use it to create a subset 
 beaches_clean <- beaches_clean %>%  
   group_by(Location) %>% 
   mutate(sample_count = n())
@@ -127,11 +129,13 @@ head(beaches_clean)
 #this requires us to convert to a dataframe: 
 beaches_clean <- data.frame(beaches_clean)
 
+#Subset so that we are only looking at the most sampled lake: Last Mountain (LML)
 beaches_lml <- beaches_clean %>% 
   subset(sample_count >= 70)
 str(beaches_lml)
 
 #for some reason, some of our values returned to character datatypes 
+#Here I put them back into the accurate datatype: 
 beaches_lml$Year <- as.numeric(beaches_lml$Year)
 beaches_lml$Ec_per100mL <- as.numeric(beaches_lml$Ec_per100mL)
 beaches_lml$Mc_ugL <- as.numeric(beaches_lml$Mc_ugL)
@@ -164,7 +168,7 @@ beaches_lml_subset %>%
 theme_set(theme_bw())
 
 #Let's take a look at the E. coli levels over the four years of data we have
-#for each rec area
+#for each popularly sampled rec area
 ggplot(data = beaches_lml_subset, 
        mapping = aes(x = Month, y = Ec_per100mL)) +
   geom_point() + 
@@ -173,7 +177,7 @@ ggplot(data = beaches_lml_subset,
 
 #It looks like E. coli levels regularly increase in August at Regina Beach and 
 #Rowan's Ravine Provincial Park beach 
-#Let's look closer at them: 
+#Let's look specifically at the two of them: 
 beaches_lml_subset %>%  
   subset(Rec_visit_count >= 15) %>% 
   ggplot(mapping = aes(x = month_day, y = Ec_per100mL)) + 
