@@ -5,12 +5,15 @@
 ##                      Assignment title: Mini-project                       ##    
 ##    Class: Productivity and Reproducibility in Ecology and Evolution       ##
 ##                           Author: Laura Schnell                           ##
-##                                  Date:                                    ##
+##                             Date: 2023-09-27                              ##
 ##                                                                           ##
 ###############################################################################
 ###############################################################################
 
 #Introduction: 
+#This script was created to clean data collected from the Saskatchewan Healthy 
+#beaches program and visualize it. Figures were exported using built-in RStudio
+#user interface. 
 
 #Set up------------------------------------------------------------------------
 
